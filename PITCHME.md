@@ -11,7 +11,7 @@ _paginate: false
 
 # <!--fit--> Hi There 👋
 
-https://github.com/markopolo123/about-me-slides
+https://curious-arithmetic-eeee7f.netlify.app
 
 <style scoped>a { color: #eee; }</style>
 
@@ -64,6 +64,7 @@ ___
 > #esp-home #raspberry-pi 
 
 > #TDD #hug-ops #git-ops #cloud-native
+> #automate-everything
 
 ---
 
