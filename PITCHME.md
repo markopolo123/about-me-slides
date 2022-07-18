@@ -1,7 +1,7 @@
 ---
 marp: true
-title: Marp CLI example
-description: Hosting Marp slide deck on the web
+title: $whoami
+description: Welcome to my slides
 theme: uncover
 paginate: true
 _paginate: false
@@ -9,19 +9,13 @@ _paginate: false
 
 ![bg](./assets/gradient.jpg)
 
-# <!--fit--> Marp CLI example
+# <!--fit--> Hi There 👋
 
-Hosting Marp slide deck on the web
-
-https://github.com/yhatt/marp-cli-example
+https://github.com/markopolo123/about-me
 
 <style scoped>a { color: #eee; }</style>
 
 <!-- This is presenter note. You can write down notes through HTML comment. -->
-
----
-
-![Marp bg 60%](https://raw.githubusercontent.com/marp-team/marp/master/marp.png)
 
 ---
 
@@ -34,23 +28,20 @@ https://github.com/yhatt/marp-cli-example
 
 ---
 
-![bg right 60%](https://icongr.am/octicons/mark-github.svg)
 
-## **[GitHub Pages](https://github.com/pages)**
 
-#### Ready to write & host your deck!
+## <!--fit--> **Professional Background**
 
-[![Use this as template h:1.5em](https://img.shields.io/badge/-Use%20this%20as%20template-brightgreen?style=for-the-badge&logo=github)](https://github.com/yhatt/marp-cli-example/generate)
+* Two years @ AstraZeneca
+* Four Years @ University of Cambridge
+* Before that, many things
 
 ---
 
-![bg right 60%](https://icongr.am/simple/netlify.svg?colored)
+## <!--fit--> **Un/Professional Background**
 
-## **[Netlify](https://www.netlify.com/)**
-
-#### Ready to write & host your deck!
-
-[![Deploy to Netlify h:1.5em](./assets/netlify-deploy-button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yhatt/marp-cli-example)
+* Refitting a narrow boat
+* Loves the outdoors, often found cycling
 
 ---
 
@@ -68,8 +59,5 @@ https://github.com/yhatt/marp-cli-example
 
 ---
 
-![bg 40% opacity blur](https://avatars1.githubusercontent.com/u/3993388?v=4)
-
-### Created by Yuki Hattori ([@yhatt](https://github.com/yhatt))
-
-https://github.com/yhatt/marp-cli-example
+![bg 40% opacity blur](https://avatars1.githubusercontent.com/u/698889?v=4)
+### Grab me for coffee ([@mark.sharpley](https://github.com/markopolo123))
