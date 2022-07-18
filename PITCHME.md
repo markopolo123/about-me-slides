@@ -11,7 +11,7 @@ _paginate: false
 
 # <!--fit--> Hi There 👋
 
-https://github.com/markopolo123/about-me
+https://github.com/markopolo123/about-me-slides
 
 <style scoped>a { color: #eee; }</style>
 
@@ -19,45 +19,67 @@ https://github.com/markopolo123/about-me
 
 ---
 
-<!-- _backgroundColor: "#123" -->
-<!-- _color: "#fff" -->
+## <!--fit--> **Professional Background**
 
-##### <!--fit--> [Marp CLI](https://github.com/marp-team/marp-cli) + [GitHub Pages](https://github.com/pages) | [Netlify](https://www.netlify.com/) | [Vercel](https://vercel.com/)
+* **Two years @ AstraZeneca**
+    Tech Lead on R&D High Performance Computing Team
+    Lots of modernisation work on a legacy platform
 
-##### <!--fit--> 👉 The easiest way to host<br />your Marp deck on the web
+* **Four Years @ University of Cambridge**
+    Mostly working on scientific computing and High Performance Computing
+    Largest Academic Supercomputer in UK and fastest parallel storage system in the world
 
 ---
 
-
-
 ## <!--fit--> **Professional Background**
 
-* Two years @ AstraZeneca
-* Four Years @ University of Cambridge
-* Before that, many things
-
+* **Stem Cell Institute**, where I got into HPC
+* Managed several IT departments, worked in a few schools
+* Worked in the building supplies trade for a while
+* Cocktail Bars when I was ~~much~~ younger
+* Wanted to work with Geographical Information Systems
 ---
 
 ## <!--fit--> **Un/Professional Background**
 
 * Refitting a narrow boat
 * Loves the outdoors, often found cycling
+* Loves food and gardening
+* Bit of a biophile
+
+___
+
+## <!--fit--> **My Obsession with Computers**
+
+* Been into Computers, especially Open Source & Linux since childhood
+* I like solving problems **with** computers
+* Read `the phoenix project` in 2014...
+* EVERYTHING IS CODE (even these slides...)
 
 ---
 
-![bg right 60%](https://icongr.am/simple/zeit.svg)
+### :ok_hand:
 
-## **[Vercel](https://vercel.com/)**
+> #home-automation #homelabbing #3d-printing
+> #esp-home #raspberry-pi 
 
-#### Ready to write & host your deck!
-
-[![Deploy to Vercel h:1.5em](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/yhatt/marp-cli-example)
+> #TDD #hug-ops #git-ops #cloud-native
 
 ---
 
-### <!--fit--> :ok_hand:
+<!-- _backgroundColor: "#123" -->
+<!-- _color: "#fff" -->
+
+##### <!--fit--> 🧊 Stay cool in the heat!
+
+![bg horizontal](./assets/tram.jpg)
+
+![bg](./assets/veggies.jpg)
+
+![bg](./assets/boat.jpeg)
 
 ---
 
 ![bg 40% opacity blur](https://avatars1.githubusercontent.com/u/698889?v=4)
+
 ### Grab me for coffee ([@mark.sharpley](https://github.com/markopolo123))
