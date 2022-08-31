@@ -1,4 +1,7 @@
 const canonicalUrl = process.env.URL || undefined
+
+const marpKrokiPlugin = require('./kroki-plugin')
+
 const ogImage = (() => {
   if (canonicalUrl) return `${canonicalUrl}/og-image.jpg`
   if (process.env.VERCEL_URL)
@@ -8,6 +11,7 @@ const ogImage = (() => {
 })()
 
 module.exports = {
+  engine: ({ marp }) => marp.use(marpKrokiPlugin),
   allowLocalFiles: true,
   ogImage,
   themeSet: 'themes',
