@@ -94,6 +94,17 @@ sequenceDiagram
     Bob-->John: Jolly good!
 ```
 ---
+
+---
+```mermaid
+pie
+    title Key elements in Product X
+    "Calcium" : 42.96
+    "Potassium" : 50.05
+    "Magnesium" : 10.01
+    "Iron" :  5
+```  
+---
 ![bg 40% opacity blur](https://avatars1.githubusercontent.com/u/698889?v=4)
 
 ### Grab me for coffee ([@mark.sharpley](https://github.com/markopolo123))
