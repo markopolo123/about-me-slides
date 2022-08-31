@@ -80,7 +80,20 @@ ___
 ![bg](./assets/boat.jpeg)
 
 ---
-
+```mermaid
+sequenceDiagram
+    participant Alice
+    participant Bob
+    Alice->John: Hello John, how are you?
+    loop Healthcheck
+        John->John: Fight against hypochondria
+    end
+    Note right of John: Rational thoughts prevail...
+    John-->Alice: Great!
+    John->Bob: How about you?
+    Bob-->John: Jolly good!
+```
+---
 ![bg 40% opacity blur](https://avatars1.githubusercontent.com/u/698889?v=4)
 
 ### Grab me for coffee ([@mark.sharpley](https://github.com/markopolo123))
